@@ -8,5 +8,5 @@ A practice project for angular application using UAA oauth2 server
 5. Open your browser and point to http://localhost:9090
 
 
-Thanks to the below link:
+Thanks to the following link:
 https://www.thepolyglotdeveloper.com/2015/03/using-oauth-2-0-in-your-web-browser-with-angularjs/
